@@ -1,0 +1,7 @@
+D:\Proyecto C#\Ficheros\Ficheros\bin\Debug\Ficheros.exe.config
+D:\Proyecto C#\Ficheros\Ficheros\bin\Debug\Ficheros.exe
+D:\Proyecto C#\Ficheros\Ficheros\bin\Debug\Ficheros.pdb
+D:\Proyecto C#\Ficheros\Ficheros\obj\Debug\Ficheros.csproj.AssemblyReference.cache
+D:\Proyecto C#\Ficheros\Ficheros\obj\Debug\Ficheros.csproj.CoreCompileInputs.cache
+D:\Proyecto C#\Ficheros\Ficheros\obj\Debug\Ficheros.exe
+D:\Proyecto C#\Ficheros\Ficheros\obj\Debug\Ficheros.pdb
